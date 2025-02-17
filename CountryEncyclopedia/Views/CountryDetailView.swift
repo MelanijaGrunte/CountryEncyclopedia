@@ -18,7 +18,7 @@ struct CountryDetailView: View {
         ("Continents", viewModel.country.continents.joined(separator: ", ")),
         ("Country code", viewModel.country.countryCode),
         ("Population", String(describing: viewModel.country.population)),
-        ("Global population rank", String(describing: viewModel.getPopulationRank())),
+        ("Global population rank", viewModel.populationRankFormatted),
         ("Currencies", viewModel.country.currenciesFormatted),
     ] }
 

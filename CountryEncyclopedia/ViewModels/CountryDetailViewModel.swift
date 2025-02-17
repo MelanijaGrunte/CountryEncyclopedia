@@ -19,11 +19,17 @@ class CountryDetailViewModel: ObservableObject {
         self.fullCountryList = fullCountryList
     }
 
-    func getPopulationRank() -> Int {
-        var countryPopulations = fullCountryList.map { $0.population }
-        countryPopulations.sort(by: >)
-        let index = countryPopulations.firstIndex(where: { $0 < country.population })
-        return index ?? 0
+    var populationRank: Int? {
+        let countriesSortedByPopulation = fullCountryList.sorted(by: { $0.population > $1.population })
+        if let indexOfCountryInSortedArray = countriesSortedByPopulation.firstIndex(of: country) {
+            return indexOfCountryInSortedArray + 1
+        } else {
+            return nil
+        }
+    }
+    
+    var populationRankFormatted: String {
+        populationRank.map(\.description) ?? "N/A"
     }
 
     var flagUrl: URL {
