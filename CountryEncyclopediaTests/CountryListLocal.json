@@ -1,0 +1,1099 @@
+[
+  {
+    "name": {
+      "common": "Latvia",
+      "official": "Republic of Latvia",
+      "nativeName": {
+        "lav": {
+          "official": "Latvijas Republikas",
+          "common": "Latvija"
+        }
+      }
+    },
+    "tld": [
+      ".lv"
+    ],
+    "cca2": "LV",
+    "ccn3": "428",
+    "cca3": "LVA",
+    "cioc": "LAT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "â‚¬"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "71"
+      ]
+    },
+    "capital": [
+      "Riga"
+    ],
+    "altSpellings": [
+      "LV",
+      "Republic of Latvia",
+      "Latvijas Republika"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+      "lav": "Latvian"
+    },
+    "translations": {
+      "ara": {
+        "official": "Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ù„Ø§ØªÙÙŠØ§",
+        "common": "Ù„Ø§ØªÙÙŠØ§"
+      },
+      "bre": {
+        "official": "Republik Latvia",
+        "common": "Latvia"
+      },
+      "ces": {
+        "official": "LotyÅ¡skÃ¡ republika",
+        "common": "LotyÅ¡sko"
+      },
+      "cym": {
+        "official": "Republic of Latvia",
+        "common": "Latvia"
+      },
+      "deu": {
+        "official": "Republik Lettland",
+        "common": "Lettland"
+      },
+      "est": {
+        "official": "LÃ¤ti Vabariik",
+        "common": "LÃ¤ti"
+      },
+      "fin": {
+        "official": "Latvian tasavalta",
+        "common": "Latvia"
+      },
+      "fra": {
+        "official": "RÃ©publique de Lettonie",
+        "common": "Lettonie"
+      },
+      "hrv": {
+        "official": "Republika Latvija",
+        "common": "Latvija"
+      },
+      "hun": {
+        "official": "Lett KÃ¶ztÃ¡rsasÃ¡g",
+        "common": "LettorszÃ¡g"
+      },
+      "ita": {
+        "official": "Repubblica di Lettonia",
+        "common": "Lettonia"
+      },
+      "jpn": {
+        "official": "ãƒ©ãƒˆãƒ“ã‚¢å…±å’Œå›½",
+        "common": "ãƒ©ãƒˆãƒ“ã‚¢"
+      },
+      "kor": {
+        "official": "ë¼íŠ¸ë¹„ì•„ ê³µí™”êµ­",
+        "common": "ë¼íŠ¸ë¹„ì•„"
+      },
+      "nld": {
+        "official": "Republiek Letland",
+        "common": "Letland"
+      },
+      "per": {
+        "official": "Ø¬Ù…Ù‡ÙˆØ±ÛŒ Ù„ØªÙˆÙ†ÛŒ",
+        "common": "Ù„ØªÙˆÙ†ÛŒ"
+      },
+      "pol": {
+        "official": "Republika Åotewska",
+        "common": "Åotwa"
+      },
+      "por": {
+        "official": "RepÃºblica da LetÃ³nia",
+        "common": "LetÃ³nia"
+      },
+      "rus": {
+        "official": "Ð›Ð°Ñ‚Ð²Ð¸Ð¹ÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°",
+        "common": "Ð›Ð°Ñ‚Ð²Ð¸Ñ"
+      },
+      "slk": {
+        "official": "LotyÅ¡skÃ¡ republika",
+        "common": "LotyÅ¡sko"
+      },
+      "spa": {
+        "official": "RepÃºblica de Letonia",
+        "common": "Letonia"
+      },
+      "srp": {
+        "official": "Ð›ÐµÑ‚Ð¾Ð½ÑÐºÐ° Ð ÐµÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°",
+        "common": "Ð›ÐµÑ‚Ð¾Ð½Ð¸Ñ˜Ð°"
+      },
+      "swe": {
+        "official": "Republiken Lettland",
+        "common": "Lettland"
+      },
+      "tur": {
+        "official": "Letonya Cumhuriyeti",
+        "common": "Letonya"
+      },
+      "urd": {
+        "official": "Ø¬Ù…ÛÙˆØ±ÛŒÛ Ù„Ù¹ÙˆÛŒØ§",
+        "common": "Ù„Ù¹ÙˆÛŒØ§"
+      },
+      "zho": {
+        "official": "æ‹‰è„±ç»´äºšå…±å’Œå›½",
+        "common": "æ‹‰è„±ç»´äºš"
+      }
+    },
+    "latlng": [
+      57,
+      25
+    ],
+    "landlocked": false,
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "area": 64559,
+    "demonyms": {
+      "eng": {
+        "f": "Latvian",
+        "m": "Latvian"
+      },
+      "fra": {
+        "f": "Lettone",
+        "m": "Letton"
+      }
+    },
+    "flag": "🇱🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
+    },
+    "population": 1901548,
+    "gini": {
+      "2018": 35.1
+    },
+    "fifa": "LVA",
+    "car": {
+      "signs": [
+        "LV"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lv.png",
+      "svg": "https://flagcdn.com/lv.svg",
+      "alt": "The flag of Latvia has a carmine-red field with a thin white horizontal band across the middle of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        56.95,
+        24.1
+      ]
+    },
+    "postalCode": {
+      "format": "LV-####",
+      "regex": "^(?:LV)*(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Lithuania",
+      "official": "Republic of Lithuania",
+      "nativeName": {
+        "lit": {
+          "official": "Lietuvos Respublikos",
+          "common": "Lietuva"
+        }
+      }
+    },
+    "tld": [
+      ".lt"
+    ],
+    "cca2": "LT",
+    "ccn3": "440",
+    "cca3": "LTU",
+    "cioc": "LTU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "â‚¬"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "70"
+      ]
+    },
+    "capital": [
+      "Vilnius"
+    ],
+    "altSpellings": [
+      "LT",
+      "Republic of Lithuania",
+      "Lietuvos Respublika"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+      "lit": "Lithuanian"
+    },
+    "translations": {
+      "ara": {
+        "official": "Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ù„ÙŠØªÙˆØ§Ù†ÙŠØ§",
+        "common": "Ù„ÙŠØªÙˆØ§Ù†ÙŠØ§"
+      },
+      "bre": {
+        "official": "Republik Lituania",
+        "common": "Lituania"
+      },
+      "ces": {
+        "official": "LitevskÃ¡ republika",
+        "common": "Litva"
+      },
+      "cym": {
+        "official": "Republic of Lithuania",
+        "common": "Lithuania"
+      },
+      "deu": {
+        "official": "Republik Litauen",
+        "common": "Litauen"
+      },
+      "est": {
+        "official": "Leedu Vabariik",
+        "common": "Leedu"
+      },
+      "fin": {
+        "official": "Liettuan tasavalta",
+        "common": "Liettua"
+      },
+      "fra": {
+        "official": "RÃ©publique de Lituanie",
+        "common": "Lituanie"
+      },
+      "hrv": {
+        "official": "Republika Litva",
+        "common": "Litva"
+      },
+      "hun": {
+        "official": "LitvÃ¡n KÃ¶ztÃ¡rsasÃ¡g",
+        "common": "LitvÃ¡nia"
+      },
+      "ita": {
+        "official": "Repubblica di Lituania",
+        "common": "Lituania"
+      },
+      "jpn": {
+        "official": "ãƒªãƒˆã‚¢ãƒ‹ã‚¢å…±å’Œå›½",
+        "common": "ãƒªãƒˆã‚¢ãƒ‹ã‚¢"
+      },
+      "kor": {
+        "official": "ë¦¬íˆ¬ì•„ë‹ˆì•„ ê³µí™”êµ­",
+        "common": "ë¦¬íˆ¬ì•„ë‹ˆì•„"
+      },
+      "nld": {
+        "official": "Republiek Litouwen",
+        "common": "Litouwen"
+      },
+      "per": {
+        "official": "Ù„ÛŒØªÙˆØ§Ù†ÛŒØ§ÛŒÛŒâ€ŒÙ‡Ø§",
+        "common": "Ù„ÛŒØªÙˆØ§Ù†ÛŒØ§ÛŒÛŒâ€ŒÙ‡Ø§"
+      },
+      "pol": {
+        "official": "Republika Litewska",
+        "common": "Litwa"
+      },
+      "por": {
+        "official": "RepÃºblica da LituÃ¢nia",
+        "common": "LituÃ¢nia"
+      },
+      "rus": {
+        "official": "Ð›Ð¸Ñ‚Ð¾Ð²ÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°",
+        "common": "Ð›Ð¸Ñ‚Ð²Ð°"
+      },
+      "slk": {
+        "official": "LitovskÃ¡ republika",
+        "common": "Litva"
+      },
+      "spa": {
+        "official": "RepÃºblica de Lituania",
+        "common": "Lituania"
+      },
+      "srp": {
+        "official": "Ð›Ð¸Ñ‚Ð²Ð°Ð½ÑÐºÐ° Ð ÐµÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°",
+        "common": "Ð›Ð¸Ñ‚Ð²Ð°Ð½Ð¸Ñ˜Ð°"
+      },
+      "swe": {
+        "official": "Republiken Litauen",
+        "common": "Litauen"
+      },
+      "tur": {
+        "official": "Litvanya Cumhuriyeti",
+        "common": "Litvanya"
+      },
+      "urd": {
+        "official": "Ø¬Ù…ÛÙˆØ±ÛŒÛ Ù„ØªÚ¾ÙˆÙˆÛŒÙ†ÛŒØ§",
+        "common": "Ù„ØªÚ¾ÙˆÙˆÛŒÙ†ÛŒØ§"
+      },
+      "zho": {
+        "official": "ç«‹é™¶å®›å…±å’Œå›½",
+        "common": "ç«‹é™¶å®›"
+      }
+    },
+    "latlng": [
+      56,
+      24
+    ],
+    "landlocked": false,
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "area": 65300,
+    "demonyms": {
+      "eng": {
+        "f": "Lithuanian",
+        "m": "Lithuanian"
+      },
+      "fra": {
+        "f": "Lituanienne",
+        "m": "Lituanien"
+      }
+    },
+    "flag": "🇱🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/72596"
+    },
+    "population": 2794700,
+    "gini": {
+      "2018": 35.7
+    },
+    "fifa": "LTU",
+    "car": {
+      "signs": [
+        "LT"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lt.png",
+      "svg": "https://flagcdn.com/lt.svg",
+      "alt": "The flag of Lithuania is composed of three equal horizontal bands of yellow, green and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        54.68,
+        25.32
+      ]
+    },
+    "postalCode": {
+      "format": "LT-#####",
+      "regex": "^(?:LT)*(\\d{5})$"
+    }
+  },
+  {
+      "name": {
+        "common": "Belarus",
+        "official": "Republic of Belarus",
+        "nativeName": {
+          "bel": {
+            "official": "Ð ÑÑÐ¿ÑƒÐ±Ð»Ñ–ÐºÐ° Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÑŒ",
+            "common": "Ð‘ÐµÐ»Ð°Ñ€ÑƒÌÑÑŒ"
+          },
+          "rus": {
+            "official": "Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÑŒ",
+            "common": "Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÑŒ"
+          }
+        }
+      },
+      "tld": [
+        ".by"
+      ],
+      "cca2": "BY",
+      "ccn3": "112",
+      "cca3": "BLR",
+      "cioc": "BLR",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "BYN": {
+          "name": "Belarusian ruble",
+          "symbol": "Br"
+        }
+      },
+      "idd": {
+        "root": "+3",
+        "suffixes": [
+          "75"
+        ]
+      },
+      "capital": [
+        "Minsk"
+      ],
+      "altSpellings": [
+        "BY",
+        "BielaruÅ›",
+        "Republic of Belarus",
+        "Ð‘ÐµÐ»Ð¾Ñ€ÑƒÑÑÐ¸Ñ",
+        "Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð‘ÐµÐ»Ð¾Ñ€ÑƒÑÑÐ¸Ñ"
+      ],
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "languages": {
+        "bel": "Belarusian",
+        "rus": "Russian"
+      },
+      "translations": {
+        "ara": {
+          "official": "Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø¨ÙŠÙ„Ø§Ø±ÙˆØ³ÙŠØ§",
+          "common": "Ø¨ÙŠÙ„Ø§Ø±ÙˆØ³ÙŠØ§"
+        },
+        "bre": {
+          "official": "Republik Belarus",
+          "common": "Belarus"
+        },
+        "ces": {
+          "official": "BÄ›loruskÃ¡ republika",
+          "common": "BÄ›lorusko"
+        },
+        "cym": {
+          "official": "Gweriniaeth Belarws",
+          "common": "Belarws"
+        },
+        "deu": {
+          "official": "Republik Belarus",
+          "common": "WeiÃŸrussland"
+        },
+        "est": {
+          "official": "Valgevene Vabariik",
+          "common": "Valgevene"
+        },
+        "fin": {
+          "official": "Valko-VenÃ¤jÃ¤n tasavalta",
+          "common": "Valko-VenÃ¤jÃ¤"
+        },
+        "fra": {
+          "official": "RÃ©publique de BiÃ©lorussie",
+          "common": "BiÃ©lorussie"
+        },
+        "hrv": {
+          "official": "Republika Bjelorusija",
+          "common": "Bjelorusija"
+        },
+        "hun": {
+          "official": "FehÃ©rorosz KÃ¶ztÃ¡rsasÃ¡g",
+          "common": "FehÃ©roroszorszÃ¡g"
+        },
+        "ita": {
+          "official": "Repubblica di Belarus",
+          "common": "Bielorussia"
+        },
+        "jpn": {
+          "official": "ãƒ™ãƒ©ãƒ«ãƒ¼ã‚·å…±å’Œå›½",
+          "common": "ãƒ™ãƒ©ãƒ«ãƒ¼ã‚·"
+        },
+        "kor": {
+          "official": "ë²¨ë¼ë£¨ìŠ¤ ê³µí™”êµ­",
+          "common": "ë²¨ë¼ë£¨ìŠ¤"
+        },
+        "nld": {
+          "official": "Republiek Belarus",
+          "common": "Wit-Rusland"
+        },
+        "per": {
+          "official": "Ø¬Ù…Ù‡ÙˆØ±ÛŒ Ø¨Ù„Ø§Ø±ÙˆØ³",
+          "common": "Ø¨Ù„Ø§Ø±ÙˆØ³"
+        },
+        "pol": {
+          "official": "Republika BiaÅ‚orusi",
+          "common": "BiaÅ‚oruÅ›"
+        },
+        "por": {
+          "official": "RepÃºblica da BielorrÃºssia",
+          "common": "BielorÃºssia"
+        },
+        "rus": {
+          "official": "Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÑŒ",
+          "common": "Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÑŒ"
+        },
+        "slk": {
+          "official": "BieloruskÃ¡ republika",
+          "common": "Bielorusko"
+        },
+        "spa": {
+          "official": "RepÃºblica de BelarÃºs",
+          "common": "Bielorrusia"
+        },
+        "srp": {
+          "official": "Ð ÐµÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð‘ÐµÐ»Ð¾Ñ€ÑƒÑÐ¸Ñ˜Ð°",
+          "common": "Ð‘ÐµÐ»Ð¾Ñ€ÑƒÑÐ¸Ñ˜Ð°"
+        },
+        "swe": {
+          "official": "Republiken Vitryssland",
+          "common": "Belarus"
+        },
+        "tur": {
+          "official": "Belarus Cumhuriyeti",
+          "common": "Belarus"
+        },
+        "urd": {
+          "official": "Ø¬Ù…ÛÙˆØ±ÛŒÛ Ø¨ÛŒÙ„Ø§Ø±ÙˆØ³",
+          "common": "Ø¨ÛŒÙ„Ø§Ø±ÙˆØ³"
+        },
+        "zho": {
+          "official": "ç™½ä¿„ç½—æ–¯å…±å’Œå›½",
+          "common": "ç™½ä¿„ç½—æ–¯"
+        }
+      },
+      "latlng": [
+        53,
+        28
+      ],
+      "landlocked": true,
+      "borders": [
+        "LVA",
+        "LTU",
+        "POL",
+        "RUS",
+        "UKR"
+      ],
+      "area": 207600,
+      "demonyms": {
+        "eng": {
+          "f": "Belarusian",
+          "m": "Belarusian"
+        },
+        "fra": {
+          "f": "BiÃ©lorusse",
+          "m": "BiÃ©lorusse"
+        }
+      },
+      "flag": "🇧🇾",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/59065"
+      },
+      "population": 9398861,
+      "gini": {
+        "2019": 25.3
+      },
+      "fifa": "BLR",
+      "car": {
+        "signs": [
+          "BY"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/by.png",
+        "svg": "https://flagcdn.com/by.svg",
+        "alt": "The flag of Belarus features a vertical band, with a white and red ornamental pattern, spanning about one-fifth the width of the field on the hoist side. Adjoining the vertical band are two horizontal bands of red and green, with the red band twice the height of the green band."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/by.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/by.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          53.9,
+          27.57
+        ]
+      },
+      "postalCode": {
+        "format": "######",
+        "regex": "^(\\d{6})$"
+      }
+    },
+  {
+      "name": {
+        "common": "Estonia",
+        "official": "Republic of Estonia",
+        "nativeName": {
+          "est": {
+            "official": "Eesti Vabariik",
+            "common": "Eesti"
+          }
+        }
+      },
+      "tld": [
+        ".ee"
+      ],
+      "cca2": "EE",
+      "ccn3": "233",
+      "cca3": "EST",
+      "cioc": "EST",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "â‚¬"
+        }
+      },
+      "idd": {
+        "root": "+3",
+        "suffixes": [
+          "72"
+        ]
+      },
+      "capital": [
+        "Tallinn"
+      ],
+      "altSpellings": [
+        "EE",
+        "Eesti",
+        "Republic of Estonia",
+        "Eesti Vabariik"
+      ],
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "languages": {
+        "est": "Estonian"
+      },
+      "translations": {
+        "ara": {
+          "official": "Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø¥Ø³ØªÙˆÙ†ÙŠØ§",
+          "common": "Ø¥Ø³ØªÙˆÙ†ÙŠØ§"
+        },
+        "bre": {
+          "official": "Republik Estonia",
+          "common": "Estonia"
+        },
+        "ces": {
+          "official": "EstonskÃ¡ republika",
+          "common": "Estonsko"
+        },
+        "cym": {
+          "official": "Gweriniaeth Estonia",
+          "common": "Estonia"
+        },
+        "deu": {
+          "official": "Republik Estland",
+          "common": "Estland"
+        },
+        "est": {
+          "official": "Eesti Vabariik",
+          "common": "Eesti"
+        },
+        "fin": {
+          "official": "Viron tasavalta",
+          "common": "Viro"
+        },
+        "fra": {
+          "official": "RÃ©publique d'Estonie",
+          "common": "Estonie"
+        },
+        "hrv": {
+          "official": "Republika Estonija",
+          "common": "Estonija"
+        },
+        "hun": {
+          "official": "Ã‰szt KÃ¶ztÃ¡rsasÃ¡g",
+          "common": "Ã‰sztorszÃ¡g"
+        },
+        "ita": {
+          "official": "Repubblica di Estonia",
+          "common": "Estonia"
+        },
+        "jpn": {
+          "official": "ã‚¨ã‚¹ãƒˆãƒ‹ã‚¢å…±å’Œå›½",
+          "common": "ã‚¨ã‚¹ãƒˆãƒ‹ã‚¢"
+        },
+        "kor": {
+          "official": "ì—ìŠ¤í† ë‹ˆì•„ ê³µí™”êµ­",
+          "common": "ì—ìŠ¤í† ë‹ˆì•„"
+        },
+        "nld": {
+          "official": "Republiek Estland",
+          "common": "Estland"
+        },
+        "per": {
+          "official": "Ø¬Ù…Ù‡ÙˆØ±ÛŒ Ø§Ø³ØªÙˆÙ†ÛŒ",
+          "common": "Ø§ÙØ³ØªÙˆÙ†ÛŒ"
+        },
+        "pol": {
+          "official": "Republika EstoÅ„ska",
+          "common": "Estonia"
+        },
+        "por": {
+          "official": "RepÃºblica da EstÃ³nia",
+          "common": "EstÃ³nia"
+        },
+        "rus": {
+          "official": "Ð­ÑÑ‚Ð¾Ð½ÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°",
+          "common": "Ð­ÑÑ‚Ð¾Ð½Ð¸Ñ"
+        },
+        "slk": {
+          "official": "EstÃ³nska republika",
+          "common": "EstÃ³nsko"
+        },
+        "spa": {
+          "official": "RepÃºblica de Estonia",
+          "common": "Estonia"
+        },
+        "srp": {
+          "official": "Ð•ÑÑ‚Ð¾Ð½ÑÐºÐ° Ð ÐµÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°",
+          "common": "Ð•ÑÑ‚Ð¾Ð½Ð¸Ñ˜Ð°"
+        },
+        "swe": {
+          "official": "Republiken Estland",
+          "common": "Estland"
+        },
+        "tur": {
+          "official": "Estonya Cumhuriyeti",
+          "common": "Estonya"
+        },
+        "urd": {
+          "official": "Ø¬Ù…ÛÙˆØ±ÛŒÛ Ø§Ø³Ù¹ÙˆÙ†ÛŒØ§",
+          "common": "Ø§Ø³Ù¹ÙˆÙ†ÛŒØ§"
+        },
+        "zho": {
+          "official": "çˆ±æ²™å°¼äºšå…±å’Œå›½",
+          "common": "çˆ±æ²™å°¼äºš"
+        }
+      },
+      "latlng": [
+        59,
+        26
+      ],
+      "landlocked": false,
+      "borders": [
+        "LVA",
+        "RUS"
+      ],
+      "area": 45227,
+      "demonyms": {
+        "eng": {
+          "f": "Estonian",
+          "m": "Estonian"
+        },
+        "fra": {
+          "f": "Estonienne",
+          "m": "Estonien"
+        }
+      },
+      "flag": "🇪🇪",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/79510"
+      },
+      "population": 1331057,
+      "gini": {
+        "2018": 30.3
+      },
+      "fifa": "EST",
+      "car": {
+        "signs": [
+          "EST"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/ee.png",
+        "svg": "https://flagcdn.com/ee.svg",
+        "alt": "The flag of Estonia is composed of three equal horizontal bands of blue, black and white."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ee.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ee.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          59.43,
+          24.72
+        ]
+      },
+      "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+      }
+    },
+  {
+      "name": {
+        "common": "Russia",
+        "official": "Russian Federation",
+        "nativeName": {
+          "rus": {
+            "official": "Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ°Ñ Ð¤ÐµÐ´ÐµÑ€Ð°Ñ†Ð¸Ñ",
+            "common": "Ð Ð¾ÑÑÐ¸Ñ"
+          }
+        }
+      },
+      "tld": [
+        ".ru",
+        ".su",
+        ".Ñ€Ñ„"
+      ],
+      "cca2": "RU",
+      "ccn3": "643",
+      "cca3": "RUS",
+      "cioc": "RUS",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "RUB": {
+          "name": "Russian ruble",
+          "symbol": "â‚½"
+        }
+      },
+      "idd": {
+        "root": "+7",
+        "suffixes": [
+          "3",
+          "4",
+          "5",
+          "8",
+          "9"
+        ]
+      },
+      "capital": [
+        "Moscow"
+      ],
+      "altSpellings": [
+        "RU",
+        "Russian Federation",
+        "Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ°Ñ Ð¤ÐµÐ´ÐµÑ€Ð°Ñ†Ð¸Ñ"
+      ],
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "languages": {
+        "rus": "Russian"
+      },
+      "translations": {
+        "ara": {
+          "official": "Ø±ÙˆØ³ÙŠØ§ Ø§Ù„Ø§ØªØ­Ø§Ø¯ÙŠØ©",
+          "common": "Ø±ÙˆØ³ÙŠØ§"
+        },
+        "bre": {
+          "official": "Kevread Rusia",
+          "common": "Rusia"
+        },
+        "ces": {
+          "official": "RuskÃ¡ federace",
+          "common": "Rusko"
+        },
+        "cym": {
+          "official": "Russian Federation",
+          "common": "Russia"
+        },
+        "deu": {
+          "official": "Russische FÃ¶deration",
+          "common": "Russland"
+        },
+        "est": {
+          "official": "Venemaa FÃ¶deratsioon",
+          "common": "Venemaa"
+        },
+        "fin": {
+          "official": "VenÃ¤jÃ¤n federaatio",
+          "common": "VenÃ¤jÃ¤"
+        },
+        "fra": {
+          "official": "FÃ©dÃ©ration de Russie",
+          "common": "Russie"
+        },
+        "hrv": {
+          "official": "Ruska Federacija",
+          "common": "Rusija"
+        },
+        "hun": {
+          "official": "OroszorszÃ¡gi FÃ¶derÃ¡ciÃ³",
+          "common": "OroszorszÃ¡g"
+        },
+        "ita": {
+          "official": "Federazione russa",
+          "common": "Russia"
+        },
+        "jpn": {
+          "official": "ãƒ­ã‚·ã‚¢é€£é‚¦",
+          "common": "ãƒ­ã‚·ã‚¢é€£é‚¦"
+        },
+        "kor": {
+          "official": "ëŸ¬ì‹œì•„ ì—°ë°©",
+          "common": "ëŸ¬ì‹œì•„"
+        },
+        "nld": {
+          "official": "Russische Federatie",
+          "common": "Rusland"
+        },
+        "per": {
+          "official": "ÙØ¯Ø±Ø§Ø³ÛŒÙˆÙ† Ø±ÙˆØ³ÛŒÙ‡",
+          "common": "Ø±ÙˆØ³ÛŒÙ‡"
+        },
+        "pol": {
+          "official": "Federacja Rosyjska",
+          "common": "Rosja"
+        },
+        "por": {
+          "official": "FederaÃ§Ã£o Russa",
+          "common": "RÃºssia"
+        },
+        "rus": {
+          "official": "Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ°Ñ Ð¤ÐµÐ´ÐµÑ€Ð°Ñ†Ð¸Ñ",
+          "common": "Ð Ð¾ÑÑÐ¸Ñ"
+        },
+        "slk": {
+          "official": "RuskÃ¡ federÃ¡cia",
+          "common": "Rusko"
+        },
+        "spa": {
+          "official": "FederaciÃ³n de Rusia",
+          "common": "Rusia"
+        },
+        "srp": {
+          "official": "Ð ÑƒÑÐºÐ° Ð¤ÐµÐ´ÐµÑ€Ð°Ñ†Ð¸Ñ˜Ð°",
+          "common": "Ð ÑƒÑÐ¸Ñ˜Ð°"
+        },
+        "swe": {
+          "official": "Ryska federationen",
+          "common": "Ryssland"
+        },
+        "tur": {
+          "official": "Rusya Federasyonu",
+          "common": "Rusya"
+        },
+        "urd": {
+          "official": "Ø±ÙˆØ³ÛŒ ÙˆÙØ§Ù‚",
+          "common": "Ø±ÙˆØ³"
+        },
+        "zho": {
+          "official": "ä¿„ç½—æ–¯è”é‚¦",
+          "common": "ä¿„ç½—æ–¯"
+        }
+      },
+      "latlng": [
+        60,
+        100
+      ],
+      "landlocked": false,
+      "borders": [
+        "AZE",
+        "BLR",
+        "CHN",
+        "EST",
+        "FIN",
+        "GEO",
+        "KAZ",
+        "PRK",
+        "LVA",
+        "LTU",
+        "MNG",
+        "NOR",
+        "POL",
+        "UKR"
+      ],
+      "area": 17098242,
+      "demonyms": {
+        "eng": {
+          "f": "Russian",
+          "m": "Russian"
+        },
+        "fra": {
+          "f": "Russe",
+          "m": "Russe"
+        }
+      },
+      "flag": "🇷🇺",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+      },
+      "population": 144104080,
+      "gini": {
+        "2018": 37.5
+      },
+      "fifa": "RUS",
+      "car": {
+        "signs": [
+          "RUS"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+03:00",
+        "UTC+04:00",
+        "UTC+06:00",
+        "UTC+07:00",
+        "UTC+08:00",
+        "UTC+09:00",
+        "UTC+10:00",
+        "UTC+11:00",
+        "UTC+12:00"
+      ],
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/ru.png",
+        "svg": "https://flagcdn.com/ru.svg",
+        "alt": "The flag of Russia is composed of three equal horizontal bands of white, blue and red."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ru.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ru.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          55.75,
+          37.6
+        ]
+      },
+      "postalCode": {
+        "format": "######",
+        "regex": "^(\\d{6})$"
+      }
+    }
+]
